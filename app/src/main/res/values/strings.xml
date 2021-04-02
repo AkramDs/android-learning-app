@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DICKshonary</string>
+    <string name="Test">Test</string>
+    <string name="textViewTest">Data</string>
+    <string name="play">Играть</string>
+    <string name="dictionary">Словарь</string>
+    <string name="allWords">Всего слов:</string>
+    <string name="learnedWords">Выучено слов:</string>
+    <string name="choiсeRightTranslate">Выберете правельный перевод.</string>
+    <string name="game">Игра</string>
+    <string name="skip">пропустить</string>
+    <string name="title_activity_test2">Test2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
